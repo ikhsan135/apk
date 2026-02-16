@@ -1,4 +1,5 @@
 {
-  "allowedGroups": [],
-  "groupOnlyMode": true
+  "allowedGroups": [
+    "-1002864913845"
+  ]
 }
