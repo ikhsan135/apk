@@ -1,10 +1,10 @@
 {
   "appName": "DIZZANZZ APP",
-  "appVersion": "2.0.0",
+  "appVersion": "1.0.0",
   "developer": "@Ikhsanproject",
   "owner": "@dizzajawoy",
   "createdAt": "2026-02-16T06:27:37.967Z",
-  "lastUpdated": "2026-02-16T15:24:03.968Z",
+  "lastUpdated": "2026-02-16T15:47:42.758Z",
   "logoUrl": "https://i.ibb.co.com/DSCYM0B/logo.png",
   "features": [
     "WhatsApp Session Manager",
@@ -17,8 +17,8 @@
   ],
   "stats": {
     "totalSessions": 0,
-    "totalUsers": 3,
-    "totalKeys": 3,
+    "totalUsers": 4,
+    "totalKeys": 4,
     "totalGroups": 0
   },
   "keySettings": {
