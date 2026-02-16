@@ -1,0 +1,35 @@
+{
+  "appName": "DIZZANZZ APP",
+  "appVersion": "2.0.0",
+  "developer": "@Ikhsanproject",
+  "owner": "@dizzajawoy",
+  "createdAt": "2026-02-16T06:27:37.967Z",
+  "lastUpdated": "2026-02-16T06:27:37.967Z",
+  "logoUrl": "https://i.ibb.co.com/DSCYM0B/logo.png",
+  "features": [
+    "WhatsApp Session Manager",
+    "Key Generator System",
+    "Access Control",
+    "Web Execution Panel",
+    "Blue Blood Theme",
+    "YouTube Downloader",
+    "Group Mode Control"
+  ],
+  "stats": {
+    "totalSessions": 0,
+    "totalUsers": 0,
+    "totalKeys": 0,
+    "totalGroups": 0
+  },
+  "keySettings": {
+    "maxDuration": 30,
+    "defaultDuration": 7
+  },
+  "_appInfo": {
+    "name": "DIZZANZZ APP",
+    "version": "2.0.0",
+    "developer": "@Ikhsanproject",
+    "owner": "@dizzajawoy",
+    "lastModified": "2026-02-16T06:27:38.008Z"
+  }
+}
