@@ -4,7 +4,7 @@
   "developer": "@Ikhsanproject",
   "owner": "@dizzajawoy",
   "createdAt": "2026-02-16T06:27:37.967Z",
-  "lastUpdated": "2026-02-17T06:40:20.893Z",
+  "lastUpdated": "2026-02-17T07:06:47.740Z",
   "logoUrl": "https://i.ibb.co.com/DSCYM0B/logo.png",
   "features": [
     "WhatsApp Session Manager",
@@ -16,7 +16,7 @@
     "Group Mode Control"
   ],
   "stats": {
-    "totalSessions": 1,
+    "totalSessions": 0,
     "totalUsers": 2,
     "totalKeys": 2,
     "totalGroups": 0
