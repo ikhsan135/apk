@@ -11,14 +11,14 @@ module.exports = {
   // APP INFORMATION
   // ============================================================================
   APP_NAME: "DIZZANZZ APP",
-  APP_VERSION: "2.0.0",
+  APP_VERSION: "1.0.0",
   DEVELOPER: "@Ikhsanproject",
   OWNER_TAG: "@dizzajawoy",
   
   // ============================================================================
   // BOT CONFIGURATION
   // ============================================================================
-  BOT_TOKEN: "8495624558:AAFWRbBgJgJlHaT3GcQwhoMxgBQuu1_Pw4o",
+  BOT_TOKEN: "8495624558:AAF03gHgn66132ks-YbCtLbSTBie63jfQCI",
   OWNER_ID: "7615375349",
   
   // ============================================================================
