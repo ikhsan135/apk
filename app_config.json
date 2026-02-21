@@ -4,7 +4,7 @@
   "developer": "@Ikhsanproject",
   "owner": "@dizzajawoy",
   "createdAt": "2026-02-16T06:27:37.967Z",
-  "lastUpdated": "2026-02-21T12:11:41.231Z",
+  "lastUpdated": "2026-02-21T12:20:07.018Z",
   "logoUrl": "https://i.ibb.co.com/DSCYM0B/logo.png",
   "features": [
     "WhatsApp Session Manager",
@@ -20,7 +20,7 @@
     "totalUsers": 4,
     "totalKeys": 4,
     "totalGroups": 2,
-    "totalSupport": 6
+    "totalSupport": 7
   },
   "keySettings": {
     "maxDuration": 30,
