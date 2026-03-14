@@ -5,6 +5,32 @@
       "ip": "::ffff:180.252.135.166",
       "device": "Linux - Chrome",
       "timestamp": "2026-02-28T13:51:46.651Z"
+    },
+    {
+      "username": "ikhsan",
+      "ip": "::ffff:36.70.197.203",
+      "device": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+      "status": "success",
+      "sessionId": "171cea8f4eec70859f040825a0366486e225dd3d97af24da8a44c67dd57a1d63",
+      "timestamp": "2026-03-11T23:33:11.611Z",
+      "id": "log_1773271991611_mwo41ekkt"
+    },
+    {
+      "username": "ikhsan",
+      "ip": "::ffff:36.70.197.203",
+      "device": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+      "status": "logout",
+      "timestamp": "2026-03-11T23:33:17.567Z",
+      "id": "log_1773271997567_gw0ggsmk6"
+    },
+    {
+      "username": "ikhsan",
+      "ip": "::ffff:36.70.197.203",
+      "device": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+      "status": "success",
+      "sessionId": "7a6e8e2c5e0d8a7c6ff3f78ad1f646ab8945ebb8e296b051e2c5038e74a45bb1",
+      "timestamp": "2026-03-11T23:34:05.516Z",
+      "id": "log_1773272045516_vrnrd6xi9"
     }
   ]
 }
